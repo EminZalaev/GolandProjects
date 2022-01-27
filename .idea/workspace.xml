@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99e22cca-537d-4fa2-9103-0896107bbfb3" name="Changes" comment="" />
+    <list default="true" id="99e22cca-537d-4fa2-9103-0896107bbfb3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/awesomeProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/awesomeProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/http-rest-api/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/awesomeProject/http-rest-api/go.sum" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,9 @@
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24FfnKHuVC1KtdU5X091SagjB2O" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
