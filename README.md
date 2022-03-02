@@ -1,1 +1,1 @@
-#L1..,that's mean it's time for SecondTrialForSamurai 
+L1...that's mean it's time for SecondTrialForSamurai 
