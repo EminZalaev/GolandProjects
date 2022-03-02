@@ -5,32 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99e22cca-537d-4fa2-9103-0896107bbfb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dev10/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev11/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev12/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev13/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev14/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev15/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev16/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev17/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev18/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev19/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev20/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev21/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev22/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev23/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev24/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev25/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev26/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev4/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev5/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev6/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev7/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev8/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev9/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev1/FirstTask.go" beforeDir="false" afterPath="$PROJECT_DIR$/dev1/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev17/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/dev17/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev23/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/dev23/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
