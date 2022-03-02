@@ -10,12 +10,10 @@ func getIntersection(firstArr []string, secondArr []string) []string {
 
 	for _, k := range firstArr {
 		set1[k] += 1
-		fmt.Println(set1)
 	}
 
 	for _, k := range secondArr {
 		set1[k] += 2
-		fmt.Println(set1)
 	}
 
 	result := make([]string, 0, len(firstArr))
