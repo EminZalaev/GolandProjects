@@ -6,6 +6,7 @@ import (
 )
 
 // Через канал
+// Через контекст
 
 func main() {
 	var wg sync.WaitGroup
