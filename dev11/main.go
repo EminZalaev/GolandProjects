@@ -32,5 +32,5 @@ func main() {
 	firstArr := []string{"a", "b", "c", "d", "f"}
 	secondArr := []string{"c", "d", "e", "f", "a", "b"}
 
-	fmt.Println("intersection is: ", getIntersection(firstArr, secondArr))
+	fmt.Println("Intersection is: ", getIntersection(firstArr, secondArr))
 }
