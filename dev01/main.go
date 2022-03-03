@@ -2,20 +2,32 @@ package main
 
 import "fmt"
 
-type Human struct {
+type human struct {
 	name string
-	age  int
+	age  years
 	sex  string
 }
 
-type Action struct {
-	Human  Human
+type action struct {
+	human
 	lenght int
 }
 
+type years int
+
+func (r human) agePow() years {
+	return r.age * r.age
+}
+
+func (r action) printAge() years {
+	return r.human.agePow()
+}
+
 func main() {
-	user := Human{"Vasya", 23, "Male"}
+	user := action{
+		human:  human{"Emin", 22, "YES"},
+		lenght: 15,
+	}
 	fmt.Println(user)
-	action := Action{Human: user, lenght: 20}
-	fmt.Println(action)
+	fmt.Println(action.printAge(user))
 }
